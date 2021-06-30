@@ -10,6 +10,8 @@ invertedblur = cv2.divide(grey_image,invertedblur,scale=258.0)
 
 cv2.imwrite("Profile-sketch.png",sketch)
 
+############
+
 
 
 
