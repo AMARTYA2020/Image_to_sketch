@@ -1,2 +1,2 @@
 # Image_to_sketch
-Pytho
+Python Modules Used: OpenCV
