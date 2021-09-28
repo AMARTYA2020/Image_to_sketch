@@ -8,7 +8,7 @@ invert = cv2.GaussianBlur(invert,(21,21),0)
 invertedblur = cv2.divide(grey_image,invertedblur,scale=258.0)
 
 
-cv2.imwrite("Profile-sketch.png",sketch)
+cv2.imwrite("Profile-sketch.png", sketch)
 
 ############
 
